@@ -139,7 +139,7 @@ That means this repository may contain not only working builds, but also debuggi
 
 ## Blog / Writeups
 
-Project writeups and longer-form documentation are published on **Graytips**.
+Project writeups and longer-form documentation are published on **www.graytips.com**.
 
 These articles are used to document both the final implementation and the real engineering path behind the work, including design decisions, mistakes, fixes, and next-step research ideas.
 
