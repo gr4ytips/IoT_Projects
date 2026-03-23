@@ -33,7 +33,7 @@ It is also intended to support later work in:
 - binary diffing
 - reverse engineering in Ghidra
 - UART trigger analysis
-- write/read protection hardening
+- RDP Level 1 and targeted WRP hardening
 - broader IoT security research
 
 ---
