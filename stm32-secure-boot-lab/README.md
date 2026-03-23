@@ -70,14 +70,15 @@ This gives the project a simple but real authenticated boot chain on Cortex-M.
 
 ## Project Structure
 
-```text
-stm32-secure-boot-lab/
+```stm32-secure-boot-lab/
 ├── bootloader/
 ├── app/
 ├── tools/
 ├── docs/
 ├── images/
 └── README.md
+```
+
 
 Suggested usage of each folder:
 
